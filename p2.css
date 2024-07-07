@@ -1,0 +1,16 @@
+header{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one {
+    background-image: url("https://img.livestrong.com/-/cme/cme_public_images/www_livestrong_com/photos.demandstudios.com/getty/article/178/28/87613794_XS.jpg");
+    background-repeat: repeat-x;
+    display: inline;
+}
+#in{
+  border: 5px solid royalblue;
+  border-radius: 5px;
+
+  box-shadow: 3px 3px   black;
+}
